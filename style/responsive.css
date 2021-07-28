@@ -1,0 +1,17 @@
+@media screen and (max-width: 300px) {
+  .nav{
+    display:flex;
+    margin-left: 10rem;
+  }
+}
+@media screen and (min-width:1000px){
+  .sinopse{
+    width: 40%;
+  }
+}
+@media screen and (min-width:400px){
+  .sinopse{
+    width:70%;
+  }
+
+}
